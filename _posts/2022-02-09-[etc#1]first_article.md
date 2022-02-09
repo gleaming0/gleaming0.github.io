@@ -8,7 +8,7 @@ category: etc
 #+) multiple categories in post -> category : ['etc', 'sample']
 thumbnail: /assets/img/posts/etc/thumbnail.jpg
 #keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/first_article/
+permalink: /blog/etc/first_article/
 usemathjax: true
 ---
 
