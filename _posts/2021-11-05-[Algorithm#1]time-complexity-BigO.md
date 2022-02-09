@@ -10,16 +10,18 @@ keywords: time complexity, Big-O
 permalink: /blog/time_complexity_Big-O/
 usemathjax: true
 ---
-![](/assets/img/posts/Algorithm/[1]post_info.png)
+![](/assets/img/posts/Algorithm/[1]post_info.png)  
+  
 코딩을 할 때 효율적으로 코드를 작성할 필요가 있다.  
 이를 위해서 공간 복잡도와 시간 복잡도를 고려할 필요가 있는데,  
-시간 복잡도 중에서도 가장 많이 쓰이는 빅오 표기법만 정리해두려고 한다.
+시간 복잡도 중에서도 가장 많이 쓰이는 빅오 표기법만 정리해두려고 한다.  
   
   
 시간 복잡도의 점근 표기법에는 3가지가 있다.
 * 최상의 경우 : 오메가 표기법 (Big-Ω Notation)
 * 평균의 경우 : 세타 표기법 (Big-θ Notation)
-* 최악의 경우 : 빅오 표기법 (Big-O Notation)
+* 최악의 경우 : 빅오 표기법 (Big-O Notation)  
+  
   
 ### 빅오(Big-O) 표기법
 빅오 표기법은 불필요한 연산을 제거하여 알고리즘 분석을 쉽게 할 목적으로 사용된다.  
@@ -36,7 +38,8 @@ usemathjax: true
   
 알고리즘에서 가장 흔하게 등장하는 빅오 식은 다음과 같다.  
 O($$1$$) < O($$logn$$) < O($$n$$) < O($$nlogn$$) < O($$n^2$$) < O($$n^3$$) < O($$2^n$$) < O($$n!$$) ...  
-![](/assets/img/posts/Algorithm/[1]time_complexity.png)
+![](/assets/img/posts/Algorithm/[1]time_complexity.png)  
+  
 
 ### 정렬 알고리즘 비교
 |Sorting Algorithms|공간복잡도|시간복잡도|||
