@@ -1,3 +1,25 @@
+## customizing for me
+### ✔카테고리 추가하기
+* /categories 안에 [카테고리명].md 파일 만들기
+* 카테고리명 소문자로 하기
+* 카테고리에 작성된 글이 있어야 카테고리 목록에 뜬다.
+
+### ✔이미지넣기
+* code로 확인 👉 ![](/assets/img/posts/[카테고리명]/[글번호]example.png)
+
+### ✔_posts 작성
+* 파일 이름은 항상 Y-M-D-[카테고리명#글번호]글_제_목.md
+* ex) 2021-11-05-[algorithm#1]time_complexity_BigO.md
+* permalink도 띄어쓰기 '_'로 하기
+
+### ✔'#' 태그 이용
+* '##' 여러 번 사용 시 앞에 숫자 붙이기  
+ ex) '## 1. Concept / Goals'
+* '###' 사용 시 앞에 이모지 하나로 통일해서 붙이기  
+ ex) '♦payload'
+---
+---
+
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
