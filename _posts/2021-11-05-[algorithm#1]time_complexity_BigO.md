@@ -5,7 +5,7 @@ summary: "시간 복잡도 중에서도 많이 쓰이는 빅오 표기법"
 author: aheunkim
 date: '2021-11-05 13:11:00 +0900'
 category: algorithm
-thumbnail: /assets/img/posts/algorithm/thumbnail.jpg
+thumbnail: /assets/img/posts/algorithm/thumbnail.png
 keywords: time complexity, Big-O
 permalink: /blog/time_complexity_Big-O/
 usemathjax: true
