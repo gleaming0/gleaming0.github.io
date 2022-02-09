@@ -3,8 +3,8 @@ subtitle: 뭘 넣을까?
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "https://gleaming0.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/gleaming0/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -25,11 +25,11 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: aheun kim
-author_bio: 내가 보기 편한 공부 다이어리 ?
-author_email: "aheun1216@jbnu.ac.kr"
-author_location: South Korea
-author_website_url: "https://gleaming0.github.io"
+author: John Doe
+author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_email: "mail@sujaykundu.com"
+author_location: India
+author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: null
-github_username:  gleaming0
-facebook_username: null
-linkedin_username: null
-behance_username: null
-instagram_username: null
-medium_username: null
-telegram_username: null
-dribbble_username: null
-flickr_username: null
+twitter_username: johndoe
+github_username:  sujaykundu777
+facebook_username: johndoe
+linkedin_username: johndoe
+behance_username: johndoe
+instagram_username: johndoe
+medium_username: johndoe
+telegram_username: johndoe
+dribbble_username: johndoe
+flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
