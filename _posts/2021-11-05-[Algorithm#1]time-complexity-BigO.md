@@ -10,7 +10,7 @@ keywords: time complexity, Big-O
 permalink: /blog/time_complexity_Big-O/
 usemathjax: true
 ---
-<img src="../assets/img/posts/Algorithm/[1]post_info.png" width="800" heigh="200">
+<img src="/assets/img/posts/Algorithm/[1]post_info.png" width="800" heigh="200">
 코딩을 할 때 효율적으로 코드를 작성할 필요가 있다.  
 이를 위해서 공간 복잡도와 시간 복잡도를 고려할 필요가 있는데,  
 시간 복잡도 중에서도 가장 많이 쓰이는 빅오 표기법만 정리해두려고 한다.
