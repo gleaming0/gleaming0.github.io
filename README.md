@@ -1,4 +1,4 @@
-## customizing for me
+## customizing for gleaming0
 ### ✔카테고리 추가하기
 * /categories 안에 [카테고리명].md 파일 만들기
 * 카테고리명 소문자로 하기
@@ -9,8 +9,9 @@
 
 ### ✔_posts 작성
 * 파일 이름은 항상 Y-M-D-[카테고리명#글번호]글_제_목.md
-* ex) 2021-11-05-[algorithm#1]time_complexity_BigO.md
-* permalink도 띄어쓰기 '_'로 하기
+ ex) 2021-11-05-[algorithm#1]time_complexity_BigO.md
+* permalink도 띄어쓰기 '_'로 하기  
+ ex) /blog/[카테고리명]/[글제목]/ 
 
 ### ✔'#' 태그 이용
 * '##' 여러 번 사용 시 앞에 숫자 붙이기  
