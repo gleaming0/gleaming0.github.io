@@ -7,7 +7,7 @@ date: '2022-02-09 18:34:00 +0900'
 #+) 자동? : date: {{#time:Y-m-d H:i:s}}
 category: etc
 thumbnail: /assets/img/posts/etc/thumbnail.jpg
-permalink: /blog/check_comments/
+permalink: /blog/etc/check_comments/
 ---
 
 # 댓글 창이 나오는지 테스트
