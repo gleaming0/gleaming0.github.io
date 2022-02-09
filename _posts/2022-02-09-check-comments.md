@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "댓글 테스트"
+title:  "check comments"
 summary: "This is a sample post 2 by gm"
 author: aheunkim
 date: '2022-02-09 18:34:00 +0900'
