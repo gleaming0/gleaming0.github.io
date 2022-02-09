@@ -3,7 +3,7 @@ name: aheun Kim
 username: aheunkim
 bio: "Hi! Have a good day :)"
 site: http://www.gleaming.kr/wordpress
-avatar: pooh.jpg #/assets/img/authors
+avatar: pooh.png
 email: aheun1216@jbnu.ac.kr
 social:
     - title: "github"
