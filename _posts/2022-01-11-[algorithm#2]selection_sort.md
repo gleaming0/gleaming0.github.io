@@ -5,7 +5,7 @@ summary: "선택 정렬은 현재 위치에 들어갈 알맞은 값을 찾는 �
 author: aheunkim
 date: '2022-01-11 17:11:00 +0900'
 category: algorithm
-thumbnail: /assets/img/posts/algorithm/thumbnail.png
+thumbnail: /assets/img/posts/algorithm/thumbnail.jpg
 keywords: sort algorithm, selection sort
 permalink: /blog/algorithm/selection_sort/
 usemathjax: true
@@ -23,8 +23,8 @@ usemathjax: true
 3. 다음 인덱스에서 위 과정을 반복해준다.  
 <br/>
   
-시간복잡도 : n-1, n-2, ···, 1개씩 비교를 반복하므로 *O(n^2)*
-공간복잡도 : 하나의 배열에서만 진행하므로 *O(n)*
+시간복잡도 : n-1, n-2, ···, 1개씩 비교를 반복하므로 *O(n^2)*  
+공간복잡도 : 하나의 배열에서만 진행하므로 *O(n)*  
 ![](/assets/img/posts/algorithm/[2]selection_sort.gif)  
 <br/>
 <br/>
