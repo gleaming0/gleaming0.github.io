@@ -1,31 +1,31 @@
 ---
-name: aheun Kim
-username: gleaming0
-bio: "Hi! Have a good day :)"
-site: http://www.gleaming.kr/wordpress
-avatar: pooh.jpg #/assets/img/authors
-email: aheun1216@jbnu.ac.kr
+name: John Doe
+username: johndoe
+bio: "Hi I a John, a Web Developer and Designer."
+site: http://johndoe.com
+avatar: johndoe.png
+email: mail@johndoe.com
 social:
     - title: "github"
-      url: "https://github.com/gleaming0"
+      url: "https://github.com/johndoe"
     - title: "linkedin"
-      url: null #"https://www.linkedin.com/in/johndoe"
+      url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
-      url: null #"https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     - title: "facebook"
-      url: null #"https://www.facebook.com/johndoe"
+      url: "https://www.facebook.com/johndoe"
     - title: "twitter"
-      url: null #"https://www.twitter.com/johndoe"
+      url: "https://www.twitter.com/johndoe"
     - title: "behance"
-      url: null #"https://behance.com/johndoe"
+      url: "https://behance.com/johndoe"
     - title: "instagram"
-      url: null #"https://instagram.com/johndoe"
+      url: "https://instagram.com/johndoe"
     - title: "medium"
-      url: null #"https://medium.com/johndoe"
+      url: "https://medium.com/johndoe"
     - title: "telegram"
-      url: null #"https://telegram.com/johndoe"
+      url: "https://telegram.com/johndoe"
     - title: "dribbble"
-      url: null #"https://dribbble.com/johndoe"
+      url: "https://dribbble.com/johndoe"
     - title: "flickr"
-      url: null #"https://flickr.com/johndoe"
+      url: "https://flickr.com/johndoe"
 ---
