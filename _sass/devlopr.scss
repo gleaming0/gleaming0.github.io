@@ -627,7 +627,8 @@ header {
 
 #article-container{
     display: grid;
-    width: 100%;
+    //width: 100%;
+    width: 1000px;
     grid-template-columns: 1fr 50fr 4fr;
 }
 
